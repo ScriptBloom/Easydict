@@ -54,6 +54,7 @@ static NSString *const EZCaiyunToken = @"EZCaiyunToken";
 static NSString *const EZTencentSecretId = @"EZTencentSecretId";
 static NSString *const EZTencentSecretKey = @"EZTencentSecretKey";
 static NSString *const EZGeminiAPIKey = @"EZGeminiAPIKey";
+static NSString *const EZClaudeAPIKey = @"EZClaudeAPIKey";
 
 static NSString *const EZAliAccessKeyId = @"EZAliAccessKeyId";
 static NSString *const EZAliAccessKeySecret = @"EZAliAccessKeySecret";

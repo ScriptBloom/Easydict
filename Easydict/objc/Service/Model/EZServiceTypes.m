@@ -64,6 +64,7 @@ static EZServiceTypes *_instance;
                                            EZServiceTypeTencent, [EZTencentService class],
                                            EZServiceTypeAli, [EZAliService class],
                                            EZServiceTypeGemini, [EZGeminiService class],
+                                           EZServiceTypeClaude, [EZClaudeService class],
                                            nil];
     return allServiceDict;
 }

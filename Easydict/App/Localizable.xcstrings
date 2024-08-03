@@ -732,6 +732,17 @@
         }
       }
     },
+    "claude_translate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Claude Translate"
+          }
+        }
+      }
+    },
     "clear_all" : {
       "localizations" : {
         "en" : {
@@ -2767,6 +2778,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Token"
+          }
+        }
+      }
+    },
+    "service.configuration.claude.api_key.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API Key"
           }
         }
       }

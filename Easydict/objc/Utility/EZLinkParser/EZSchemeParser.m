@@ -226,6 +226,7 @@
         EZAliAccessKeyId,
         EZAliAccessKeySecret,
         EZGeminiAPIKey,
+        EZClaudeAPIKey,
 
         EZIntelligentQueryModeKey,
     ];

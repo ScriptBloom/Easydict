@@ -1,5 +1,4 @@
 {
-  "originHash" : "a995ca1e217de6a305cfafa6275749b61cb5fb17e18c35671935a1737e5aa34b",
   "pins" : [
     {
       "identity" : "abseil-cpp-binary",
@@ -287,6 +286,15 @@
       "state" : {
         "revision" : "65e8f29b2d63c4e38e736b25c27b83e012159be8",
         "version" : "1.25.2"
+      }
+    },
+    {
+      "identity" : "swiftanthropic",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jamesrochabrun/SwiftAnthropic",
+      "state" : {
+        "revision" : "cea1929f50ae642ac1308e7776af51a792679a6b",
+        "version" : "1.8.1"
       }
     },
     {

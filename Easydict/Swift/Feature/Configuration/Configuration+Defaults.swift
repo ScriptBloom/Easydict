@@ -318,6 +318,9 @@ extension Defaults.Keys {
 
     // Gemni
     static let geminiAPIKey = Key<String?>(EZGeminiAPIKey)
+
+    // Claude
+    static let claudeAPIKey = Key<String?>(EZClaudeAPIKey)
 }
 
 /// shortcut

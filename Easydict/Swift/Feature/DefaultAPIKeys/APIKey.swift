@@ -59,6 +59,7 @@ enum APIKey: String {
     case builtInAIAPIKey
     case builtInAIEndpoint
     case builtInAIModel
+    case claudeAPIKey
 
     // MARK: Internal
 
